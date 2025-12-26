@@ -136,4 +136,4 @@ Enables leadership to monitor organization-wide HR health in real-time.
 
 # Dashboard Preview
 
-![image alt][https://github.com/SrinjoyMisra/hr-analytics-dashboard-powerbi/blob/main/HR%20Analytics%20Dashboard.png]
+![image alt](https://github.com/SrinjoyMisra/hr-analytics-dashboard-powerbi/blob/main/HR%20Analytics%20Dashboard.png)
